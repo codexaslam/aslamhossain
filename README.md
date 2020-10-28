@@ -1,6 +1,6 @@
 ### Hi there, I'm Aslam Hossain - [Aslam's Portfolio](https://aslamhossain.netlify.app "Aslam's Portfolio") 👋
 
-## I'm a 😍😍 JavaScript Enthusiast, New Teach Explorer 😍😍!
+## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer 🔥🔥!
 
 - 🔭 I’m currently working on MERN stack Web Development !
 - 🌱 I’m currently learning everything 🤣
