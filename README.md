@@ -33,13 +33,6 @@
 
 <br></br>
 
-## Some Projects I worked On:-
-- [Creative Agency](https://creative-agency-bd3fb.web.app/)
-- [Volunteer Network](https://volunteer-network-b9cfa.web.app/)
-- [Doctor's Portal](https://doctors-portal-1c3c1.web.app/)
-- [Travel Guro](https://travel-guru-e8523.web.app/)
-- [Crown-Clothing](https://crwn-clothig.herokuapp.com/)
-
 
 <img width="550" alt="Aslam Hossain's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=engineer-aslam-hossain&show_icons=true"/>
 
