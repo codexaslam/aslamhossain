@@ -1,10 +1,9 @@
 ### Hi there, I'm Aslam Hossain - [Aslam's Portfolio](https://aslam-hossain.netlify.app/ "Aslam's Portfolio") 👋
 
-## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, MERN Stack Developer 🔥🔥
+## I'm a 🔥🔥 JavaScript Enthusiast, New Teach Explorer, Full Stack Developer 🔥🔥
 
-- 🔭 I’m currently working on MERN stack Web Development !
+- 🔭 I’m currently working on MERN (next.js) stack Web Development !
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn React, React Native, Node, GraphQL, NextJs, NuxtJs,Jest
 - ⚡ Fun fact: I love to Travel and Watching Movies
 
 ### Connect with me:
