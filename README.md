@@ -1,10 +1,7 @@
 ### Hi there, I'm Aslam Hossain - [Aslam's Portfolio](https://www.aslamhossain.live/ "Aslam's Portfolio") 👋
 
-## Experienced front-end wizardry (React, Next.js) to backend mastery (Express, Nest.js, MongoDB), and mobile app magic with Flutter, I craft innovative solutions that shine brighter than the Finnish sun.
-
 ### 📫 How to Reach Me
 * 📧 Email: aslamhossain.dev@gmail.com
-* 🌐 Portfolio: [Aslam's Portfolio](https://www.aslamhossain.live/ "Aslam's Portfolio")
 * 💼 LinkedIn  [Aslam's LinkedIn](linkedin.com/in/aslamhossain-dev/ "Aslam's LinkedIn")
 ### 📑 [Resume of Aslam hossain](https://read.cv/aslamhossain)
 
